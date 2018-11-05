@@ -1,0 +1,12 @@
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\bin\Debug\EtlDesborde.exe.config
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\bin\Debug\EtlDesborde.exe
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\bin\Debug\EtlDesborde.pdb
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\bin\Debug\MySql.Data.dll
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\bin\Debug\Google.Protobuf.dll
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\bin\Debug\MySql.Data.xml
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\obj\Debug\EtlDesborde.csprojAssemblyReference.cache
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\obj\Debug\EtlDesborde.csproj.ResolveComReference.cache
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\obj\Debug\EtlDesborde.csproj.CoreCompileInputs.cache
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\obj\Debug\EtlDesborde.csproj.CopyComplete
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\obj\Debug\EtlDesborde.exe
+C:\Users\rraggios\source\repos\EtlDesborde\EtlDesborde\obj\Debug\EtlDesborde.pdb

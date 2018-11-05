@@ -1,0 +1,7 @@
+c:\users\rraggios\source\repos\ReemplazoParque\ReemplazoParque\bin\Debug\ReemplazoParque.exe.config
+c:\users\rraggios\source\repos\ReemplazoParque\ReemplazoParque\bin\Debug\ReemplazoParque.exe
+c:\users\rraggios\source\repos\ReemplazoParque\ReemplazoParque\bin\Debug\ReemplazoParque.pdb
+c:\users\rraggios\source\repos\ReemplazoParque\ReemplazoParque\obj\Debug\ReemplazoParque.csprojAssemblyReference.cache
+c:\users\rraggios\source\repos\ReemplazoParque\ReemplazoParque\obj\Debug\ReemplazoParque.csproj.CoreCompileInputs.cache
+c:\users\rraggios\source\repos\ReemplazoParque\ReemplazoParque\obj\Debug\ReemplazoParque.exe
+c:\users\rraggios\source\repos\ReemplazoParque\ReemplazoParque\obj\Debug\ReemplazoParque.pdb

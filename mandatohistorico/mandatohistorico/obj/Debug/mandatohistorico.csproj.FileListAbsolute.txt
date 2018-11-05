@@ -1,0 +1,13 @@
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\obj\Debug\mandatohistorico.csprojAssemblyReference.cache
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\obj\Debug\Interop.ExcelPlugInShell.dll
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\obj\Debug\mandatohistorico.csproj.ResolveComReference.cache
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\obj\Debug\mandatohistorico.csproj.CoreCompileInputs.cache
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\bin\Debug\mandatohistorico.exe.config
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\bin\Debug\mandatohistorico.exe
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\bin\Debug\mandatohistorico.pdb
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\bin\Debug\MySql.Data.dll
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\bin\Debug\Google.Protobuf.dll
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\bin\Debug\MySql.Data.xml
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\obj\Debug\mandatohistorico.csproj.CopyComplete
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\obj\Debug\mandatohistorico.exe
+C:\Users\rraggios\source\repos\mandatohistorico\mandatohistorico\obj\Debug\mandatohistorico.pdb
